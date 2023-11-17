@@ -25,10 +25,10 @@ class ConversorRomano_Arabico:
 
         return arabico
 
-# Solicitar ao usuário para digitar um número romano
+
 numero_romano = input("Digite um número romano: ")
 
-# Criar uma instância da classe ConversorRomanoArabico
+
 conversor = ConversorRomano_Arabico()
 
 try:
